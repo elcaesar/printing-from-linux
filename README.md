@@ -1,4 +1,4 @@
-# Pasos para instalar desde Linux Debian una impresora conectada a PC con Windows
+# Pasos para configurar desde Linux Debian una impresora conectada a PC con Windows
 
 ## En la PC Windows
 
